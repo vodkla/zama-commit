@@ -26,3 +26,6 @@ git clone <repo-url>
 cd project-helper-cli
 bash helper.sh
 ```
+
+## Developer
+This project is developed by Dev team for demo purposes only.
